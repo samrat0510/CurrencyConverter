@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="heading">My Great App</string>
+    <string name="buttonHeading">Click Here !!!</string>
+</resources>
